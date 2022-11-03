@@ -1,0 +1,16 @@
+[
+    {
+        "upperBound": 1.0,
+        "lowerBound": 1.0,
+        "alphaId": "6873f824-c8a5-40cf-8627-01760294c129",
+        "workProductId": "84be080b-d8e8-41d5-bef8-3b006cb70789",
+        "normalValue": 2
+    },
+    {
+        "upperBound": 10.0,
+        "lowerBound": 1.0,
+        "alphaId": "c0c96dfc-a69e-420a-b0bf-a71c39252e8b",
+        "workProductId": "c0862ab6-9ea1-4d74-bfc0-f0bf4ab6578f",
+        "normalValue": 1
+    }
+]
